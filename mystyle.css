@@ -1,0 +1,11 @@
+body{
+	padding-top: 80px;
+}
+
+abbr[title] {
+  text-decoration: none;
+}
+
+tr .badge{
+	line-height: 1.7;
+}
